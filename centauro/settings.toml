@@ -1,0 +1,2 @@
+[store]
+GOOGLE_APPLICATION_CREDENTIALS="./credentials/credentials.json"
